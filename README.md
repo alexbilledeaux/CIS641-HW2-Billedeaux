@@ -7,4 +7,4 @@
 ## Technical Background
 While pursuing my undergraduate degree in English, I began creating simple hobby projects like console program video games and mods for games in the Elder Scrolls series. After school ended, I got a junior front-end developer role and learned to program HTML, CSS with precompilers, and some Angular on the job. After relocating to the other side of the state, I needed to search for a new job so I got a role as an email campaign developer. This primarily comprised of very restrictive raw HTML and CSS. Eventually I moved up to a more senior role and was able to work on internal tool software.
 
-[Good meme](https://thechive.com/wp-content/uploads/2022/09/50d34ecd5525865d3911738ee8e15a19.jpg)
+![Good meme](https://thechive.com/wp-content/uploads/2022/09/50d34ecd5525865d3911738ee8e15a19.jpg)
